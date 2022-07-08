@@ -87,6 +87,10 @@ public class SwitchCase {
 		}
 	}
 	
+	/**
+	 * 
+	 * @return
+	 */
 	public static String avinash() {
 		return "Avinash";
 	}
